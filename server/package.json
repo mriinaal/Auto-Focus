@@ -1,0 +1,29 @@
+{
+  "name": "auto-focus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mriinaal/Auto-Focus.git"
+  },
+  "author": "MK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mriinaal/Auto-Focus/issues"
+  },
+  "homepage": "https://github.com/mriinaal/Auto-Focus#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "pug": "^3.0.2",
+    "socket.io": "^4.6.1",
+    "uuid": "^9.0.0"
+  }
+}
