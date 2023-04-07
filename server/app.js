@@ -52,7 +52,7 @@ app.get("/api", (req, res)=>{
 
 
 server.listen(port, ()=>{
-    console.log(`> Server Running On Port: ${port} <`.rainbow);
+    console.log(`> Server Running On Port: http://localhost/ <`.rainbow);
 });
 
 // app.listen(port,()=>{
