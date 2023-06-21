@@ -18,28 +18,22 @@
 
 <p align="center">
   <a href="https://nodejs.org">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  </a>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></a>
   
   <a href="https://expressjs.com">
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-  </a>
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"></a>
   
   <a href="https://pugjs.org/">
-    <img src="https://img.shields.io/badge/PUG.JS-white?style=for-the-badge&logo=pug" alt="PUG.JS">
-  </a>
+    <img src="https://img.shields.io/badge/PUG.JS-white?style=for-the-badge&logo=pug" alt="PUG.JS"></a>
   
   <a href="https://peerjs.com/">
-    <img src="https://img.shields.io/badge/PEER-JS-db5d51?style=for-the-badge&labelColor=black" alt="PeerJS">
-  </a>
+    <img src="https://img.shields.io/badge/PEER-JS-db5d51?style=for-the-badge&labelColor=black" alt="PeerJS"></a>
   
   <a href="https://webrtc.org/">
-    <img src="https://img.shields.io/badge/WebRTC-4285f4?style=for-the-badge&logo=webrtc" alt="WebRTC">
-  </a>
+    <img src="https://img.shields.io/badge/WebRTC-4285f4?style=for-the-badge&logo=webrtc" alt="WebRTC"></a>
   
   <a href="https://socket.io">
-    <img src="https://img.shields.io/badge/SOCKET.IO-25c2a0?style=for-the-badge&logo=socket.io" alt="Socket.io">
-  </a>
+    <img src="https://img.shields.io/badge/SOCKET.IO-25c2a0?style=for-the-badge&logo=socket.io" alt="Socket.io"></a>
   
 </p>
 
